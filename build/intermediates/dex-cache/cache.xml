@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-impl-9.2.1_79748515d041894f9e4c0f015289588256414b41.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-common-9.2.1_97d1b5e7798932e1e876d120ba9bf88f20b28467.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.jakewharton-butterknife-8.2.1_0883c0b95085862ba4a26c5b127cde411d34ee2c.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/support-annotations-24.0.0_59573bfffb4d6fadf065535c54b751b05d041e32.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.0.0_684c893637c514a88d6632863461f44bae69fb09.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.android.support-customtabs-23.4.0_8fbad53bc0fc67832bd234cb5b7c5562b1915bab.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-23.4.0_819709d70330f2357ad44ecbf7f6095b17ade08d.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/converter-gson-2.0.2_b5dd4158614be2ad42153325500c2a0011ca70f6.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.0.0_9fec542f19ce3f424fe952b7a386dd4da84fce34.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_4fafcad5996d3b133cdc3d7a4918753b2b0c31cf.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/bolts-applinks-1.4.0_b21dcc3de1f3b05f234e440caf8638f2d8541d55.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.0.0_7dc495a293fcacaff887a218a7f43c4eb0c5a403.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/butterknife-annotations-8.2.1_0ff0f5c71a6f129946f61f3ca491280ecafe3074.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/okio-1.8.0_049b03f22c5ba674f0c383766a19b9b2bebe1404.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7cb8f70e66bdc25ee66ab8351a4e7214b6517aa8">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-android-sdk-4.14.0_c2e1481554fcbb69cd69576befcf0dc9549675bf.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/okhttp-3.3.0_b40c3b716de3c1048c80e9d819a9c0c514e4432b.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-9.2.1_a52ce15d6a6b460a3729ef5b056fc3a09cc7bcad.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-messaging-9.2.1_a2f22b7ab6dde6c7b37d25611fa48bd5bb6d4310.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-9.2.1_1e0eacc14b307009878a47a79e1522f9de03a971.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/gson-2.6.1_9299b1d0bb722766617e220eb0086d854a6d6fab.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/internal_impl-24.0.0_84c931e4f312a5a195a218070ff2947c0719247b.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-9.2.1_fbc80c57eea2922d55a87bbebad7f7a1a74b1946.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.1.2/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="aba9abcfe7ce6d935add115f5ce20254b037d583">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.jakewharton.timber-timber-4.1.2_3dcba98c33d1d4a07bd918d66c2b0232a630a6cd.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.0.0_5b303c63f2f85fe0e65c2b631689a826b2340f0f.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/retrofit-2.1.0_980f0f9ca23dcdb33645f89ce64bcf87b1e5c6df.jar" />
+    </item>
+    <item
+        jar="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="/Users/kaifer/Projects/twenty-one/hw1-android/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-iid-9.2.1_bcf541c96eb5eacfcebe90ee4fad02f9e2573d02.jar" />
+    </item>
+
+</items>

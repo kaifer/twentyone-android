@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/relativeLayout1"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:layout_marginTop="2dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/ranking_rank"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="First"
+        android:layout_weight="1">
+    </TextView>
+
+    <TextView
+        android:id="@+id/ranking_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Second"
+        android:layout_weight="2">
+    </TextView>
+
+    <TextView
+        android:id="@+id/ranking_step"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Third"
+        android:textAlignment="textEnd"
+        android:layout_weight="1">
+    </TextView>
+
+    <TextView
+        android:id="@+id/ranking_score"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Fourth"
+        android:textAlignment="textEnd"
+        android:layout_weight="1">
+    </TextView>
+</LinearLayout>
